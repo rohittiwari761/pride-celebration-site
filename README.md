@@ -4,7 +4,7 @@ An immersive, interactive web experience celebrating LGBTQ+ pride with emotional
 
 ## ✨ Live Demo
 
-🔗 **[Try it Live!](https://pride-celebration-rohit.netlify.app)**  
+🔗 **[Try it Live!](https://eyerollpride.netlify.app)**  
 📱 **[GitHub Pages](https://rohittiwari761.github.io/pride-celebration-site)**
 
 ## 🎯 Features
