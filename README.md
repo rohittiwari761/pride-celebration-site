@@ -4,7 +4,8 @@ An immersive, interactive web experience celebrating LGBTQ+ pride with emotional
 
 ## ✨ Live Demo
 
-🔗 **[Try it Live!](https://magical-nougat-cce049.netlify.app)**
+🔗 **[Try it Live!](https://pride-celebration-rohit.netlify.app)**  
+📱 **[GitHub Pages](https://rohittiwari761.github.io/pride-celebration-site)**
 
 ## 🎯 Features
 
